@@ -1,5 +1,3 @@
-A1.1 Aprendizaje estadístico-automático
-
 Este proyecto se centra en analizar de manera general los niveles de obesidad en la población latinoamericana, un problema que ha generado creciente preocupación en la región. La información utilizada proviene de una base de datos recolectada por científicos de la Universidad de la Costa, en Colombia, e incluye datos de personas de Colombia, Perú y México. La versión original de esta base de datos está disponible en el UCI Machine Learning Repository, mientras que en este proyecto se trabajó con una versión simplificada denominada “A1.1 Obesidad.csv”, que está disponible junto con esta plantilla.
 
 La base de datos cuenta con la siguiente información:
